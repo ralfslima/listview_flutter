@@ -41,7 +41,6 @@ class ConteudoPagina extends State {
 
   initState() {
     ListaProdutos lp = ListaProdutos();
-    print(ListaProdutos.produtos);
   }
 
   @override
